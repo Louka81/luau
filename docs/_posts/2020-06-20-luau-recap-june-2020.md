@@ -15,7 +15,7 @@ Many people work on these improvements; thanks @Apakovtac, @EthicalRobot, @fun_e
 
 Many developers told us on many occasions that as much as they love the recaps, it’s hard to know what the state of the language or libraries is if the only way to find out is to read through all updates. What’s the syntax extensions that Luau supports now? How do I use type checking? What’s the status of <my favorite feature> from Lua 5.x?
 
-Well, you can find all of this out here now: [https://roblox.github.io/luau/](https://roblox.github.io/luau/)
+Well, you can find all of this out here now: [https://louka81.github.io/luau/](https://louka81.github.io/luau/)
 
 Please let us know if this documentation can be improved - what are you missing, what could be improved. For now to maximize change velocity this documentation is separate from DevHub; it’s also meant as an external resource for people who don’t really use the language but are curious about the differences and novelties.
 
