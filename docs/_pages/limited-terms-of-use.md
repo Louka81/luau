@@ -4,11 +4,11 @@ title: LIMITED USE LICENSE
 permalink: /limited-terms-of-use
 ---
 <div style="text-align:center;font-weight:bold;">
-<p>ROBLOX, INC.</p>
+<p>Louka81.</p>
 <p>LIMITED USE LICENSE</p>
 </div>
 
-Roblox Corporation (“<u>Roblox</u>”) is making certain software for your access and use on a pre-release, trial, beta, evaluation, or similar limited purpose basis pursuant to this Limited Use License (the “<u>License</u>”).  By clicking agree, downloading, accessing, or using the software and materials (which may include associated data and data sets, models, and documentation) accompanying this License (the “<u>Licensed Software</u>”), you agree to be bound by the terms and conditions of this License, including acknowledging that your rights are conditioned on compliance with these terms and revocable at any time, that the Licensed Software is made available on an “as-is” basis without warranty or guarantee of any kind, and that Roblox expressly reserves all rights not expressly granted in this License.
+Louka81 (“<u>Louka81</u>”) is making certain software for your access and use on a pre-release, trial, beta, evaluation, or similar limited purpose basis pursuant to this Limited Use License (the “<u>License</u>”).  By clicking agree, downloading, accessing, or using the software and materials (which may include associated data and data sets, models, and documentation) accompanying this License (the “<u>Licensed Software</u>”), you agree to be bound by the terms and conditions of this License, including acknowledging that your rights are conditioned on compliance with these terms and revocable at any time, that the Licensed Software is made available on an “as-is” basis without warranty or guarantee of any kind, and that Roblox expressly reserves all rights not expressly granted in this License.
 Access and use of the Licensed Software may require applying for and maintaining an active registration with Roblox, the use of which account and associated services (the “<u>Service</u>”) is governed by and subject to separate terms (the “<u>Terms of Use</u>”).  
 
 1.	**Evaluation Use of the Licensed Software.**  Subject to your complete and ongoing compliance with this License (including any applicable Terms of Use), Roblox grants you a limited, nonexclusive, non-transferable, non-sublicensable, revocable permission to access and use the Licensed Software during the License Term in accordance with any applicable documentation, solely for the purpose of internal, non-production evaluation and testing of the Licensed Software, and solely in connection with your otherwise permitted use of the Roblox products and services for which the Licensed Software was designed.
