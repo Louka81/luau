@@ -3,7 +3,7 @@ layout: single
 title:  "Luau Recap: October 2020"
 ---
 
-Luau is our new language that you can read more about at [https://roblox.github.io/luau](https://roblox.github.io/luau); we’ve been so busy working on the current projects that we didn’t do an update in September, so let’s look at changes that happened since August!
+Luau is our new language that you can read more about at [https://louka81.github.io/LuaU](https://louka81.github.io/LuaU); we’ve been so busy working on the current projects that we didn’t do an update in September, so let’s look at changes that happened since August!
 
 Many people work on these improvements, with the team slowly growing - thanks @Apakovtac, @EthicalRobot, @fun_enthusiast, @machinamentum, @mrow_pizza and @zeuxcg!
 
